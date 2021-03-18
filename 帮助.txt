@@ -1,0 +1,37 @@
+CNAME请右键使用使用notpad+打开
+
+里面有两个网址
+你设置的网站名称   你的域名名称
+
+例如 ratehop.top
+
+ratehop是名字  top是域名
+
+
+www.ratehop.top
+
+
+这个同上
+
+
+如何更改成你的网址
+
+选择NFC.html右键打开notepad++  
+
+查找tel://15101631863 直接替换成tel://你的手机号  （手机号）
+
+
+查找https://space.bilibili.com/441823696 直接替换成你的b站链接（b站）
+
+
+查找https://v.douyin.com/e8TsPUw/ 直接替换成你的抖音链接 （抖音）
+
+查找sms://15101631863 直接替换成sms://你的手机号 （短信）
+
+
+教程来自b站ratehopUP 个人主页https://space.bilibili.com/441823696 
+喜欢的话不如点个关注！
+
+
+           
+
